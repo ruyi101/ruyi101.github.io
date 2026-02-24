@@ -1,0 +1,265 @@
+{
+  "basics": {
+    "name": "Hong (Louie) Yao",
+    "label": "Predictive Modeling Analyst & Physicist",
+    "image": "",
+    "email": "lhyao731@gmail.com",
+    "phone": "+1 (540) 514-1936",
+    "summary": "Physicist-turned-data-scientist with a Ph.D. in Physics from Virginia Tech. Specializes in machine learning for insurance pricing and risk modeling, NLP/LLM research, and quantum computing. Published researcher in AI/ML, quantum information, and statistical physics.",
+    "location": {
+      "city": "Liberty",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ruyi101",
+        "url": "https://github.com/ruyi101"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "The Cincinnati Insurance Company",
+      "position": "Predictive Modeling Analyst",
+      "location": "Cincinnati, OH, USA",
+      "startDate": "2023-07-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Led a collaborative research project with Ohio State University leveraging language modeling for homeowner pricing: applied DPO to rank zip-code-level risk, and used LLM-based summarization and embedding of demographic, social media, and crime data for territory-level risk tiering.",
+        "Led development of an Azure-hosted GPT-based assistant using RAG, enabling underwriters to query predictive models, documentation, and risk factors via natural language.",
+        "Improved territory factor modeling by introducing graph-based smoothing and clustering methods inspired by Graph Neural Networks, integrating spatial, locational, and demographic information.",
+        "Designed and deployed a predictive model to identify policies requiring inspection; contributed approximately $1M in annual premium uplift.",
+        "Conducted large-scale feature analysis across 1,000+ candidate variables to identify robust predictors for homeowner rating and underwriting models."
+      ]
+    },
+    {
+      "name": "The Cincinnati Insurance Company",
+      "position": "Predictive Modeling Intern",
+      "location": "Cincinnati, OH, USA",
+      "startDate": "2022-05-01",
+      "endDate": "2022-07-01",
+      "summary": "",
+      "highlights": [
+        "Developed machine learning models to predict territory factors for homeowner insurance pricing, supporting actuarial rate development and model validation workflows."
+      ]
+    },
+    {
+      "name": "Virginia Tech",
+      "position": "Teaching Assistant",
+      "location": "Blacksburg, VA, USA",
+      "startDate": "2018-08-01",
+      "endDate": "2023-05-01",
+      "summary": "Teaching assistant for multiple undergraduate and graduate physics courses.",
+      "highlights": [
+        "Introductory Physics Lab (2305/2306): Fall 2018, Spring 2019, Spring 2020",
+        "Math Methods in Physics (2504): Fall 2019",
+        "Modern Classical Physics (4984/5984): Fall 2020",
+        "Graduate Statistical Mechanics (5705): Spring 2021, Spring 2023",
+        "Intro Quantum Mechanics (4455 & 4456): Spring & Fall 2022"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Tech",
+      "location": "Blacksburg, VA, USA",
+      "url": "https://www.vt.edu/",
+      "area": "Physics",
+      "studyType": "Ph.D.",
+      "startDate": "2018-08-01",
+      "endDate": "2023-05-01",
+      "score": "",
+      "courses": [],
+      "highlights": ["Advisor: Prof. Uwe C. Täuber", "Tipsword Graduate Scholarship (2021)", "Clayton Williams Graduate Fellowship (2022)"]
+    },
+    {
+      "institution": "Nankai University",
+      "location": "Tianjin, China",
+      "url": "https://www.nankai.edu.cn/",
+      "area": "Physics",
+      "studyType": "B.Sc.",
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": "",
+      "courses": [],
+      "highlights": ["Nankai Gong Neng Scholarship (2015–2018)"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "QHack 2024 — Third Place, \"A Matter of Taste\" Challenge",
+      "date": "2024-01-01",
+      "awarder": "QHack / PennyLane",
+      "summary": "Also received the Amazon Braket Prize (Top 3). PennyLane Highlights."
+    },
+    {
+      "title": "Clayton Williams Graduate Fellowship",
+      "date": "2022-01-01",
+      "awarder": "Virginia Tech",
+      "summary": ""
+    },
+    {
+      "title": "Tipsword Graduate Scholarship",
+      "date": "2021-01-01",
+      "awarder": "Virginia Tech",
+      "summary": ""
+    },
+    {
+      "title": "Nankai Gong Neng Scholarship",
+      "date": "2016-01-01",
+      "awarder": "Nankai University",
+      "summary": "Awarded 2015–2018."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IBM Certified Associate Developer — Quantum Computation using Qiskit",
+      "date": "",
+      "issuer": "IBM",
+      "icon": "fa-solid fa-atom"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering",
+      "publisher": "Findings of ACL: EACL 2026",
+      "releaseDate": "2026-01-01",
+      "url": "",
+      "summary": "With N. Jarvis and T. Jiang."
+    },
+    {
+      "name": "JE-IRT: A Geometric Lens on LLM Abilities through Joint Embedding Item Response Theory",
+      "publisher": "arXiv:2509.22888",
+      "releaseDate": "2025-01-01",
+      "url": "https://arxiv.org/abs/2509.22888",
+      "summary": "With N. Jarvis, T. Zhan, S. Ghosh, L. Liu, T. Jiang."
+    },
+    {
+      "name": "Stochastic Resetting in Discrete-time Quantum Dynamics: Steady States and Correlations in Few-qubit Systems",
+      "publisher": "Quantum 9 (2025): 1742",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.22331/q-2025-01-27-1742",
+      "summary": "With S. Wald, T. Platini, C. Hooley, F. Carollo."
+    },
+    {
+      "name": "Digital Quantum Simulation of Reaction–Diffusion Systems on Lattices",
+      "publisher": "Eur. Phys. J. B 98 (2025)",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Coined Quantum Walks on the Line: Disorder, Entanglement and Localization",
+      "publisher": "Phys. Rev. E 108 (2023)",
+      "releaseDate": "2023-01-01",
+      "url": "",
+      "summary": "With S. Wald."
+    },
+    {
+      "name": "Perturbative Field-Theoretical Analysis of Three-Species Cyclic Predator–Prey Models",
+      "publisher": "J. Phys. A: Math. Theor. 56 (2023)",
+      "releaseDate": "2023-01-01",
+      "url": "",
+      "summary": "With M. Swailem, U. Dobramysl, U. C. Täuber."
+    },
+    {
+      "name": "Critical Dynamics of the Antiferromagnetic O(3) Nonlinear Sigma Model with Conserved Magnetization",
+      "publisher": "Phys. Rev. E 105 (2022)",
+      "releaseDate": "2022-01-01",
+      "url": "",
+      "summary": "With U. C. Täuber."
+    },
+    {
+      "name": "Social Distancing and Epidemic Resurgence in Agent-Based Susceptible–Infectious–Recovered Models",
+      "publisher": "Scientific Reports 11 (2021)",
+      "releaseDate": "2021-01-01",
+      "url": "",
+      "summary": "With R. I. Mukhamadiarov, S. Deng, S. R. Serrao, R. Nandi, U. C. Täuber."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine Learning & AI",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Scikit-Learn", "PyTorch", "Huggingface Transformers", "LLMs", "RAG", "DPO", "NLP"]
+    },
+    {
+      "name": "Quantum Computing",
+      "level": "Expert",
+      "icon": "fa-solid fa-atom",
+      "keywords": ["Qiskit", "PennyLane", "Quantum Walks", "Quantum Simulation", "VQA"]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "SQL", "Snowflake", "R", "C/C++", "Mathematica"]
+    },
+    {
+      "name": "Data Science",
+      "level": "Expert",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": ["NetworkX", "Graph Methods", "Feature Engineering", "Predictive Modeling", "Statistical Analysis"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Machine Learning & NLP",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["LLMs", "Item Response Theory", "Visual Recognition", "Insurance Analytics"]
+    },
+    {
+      "name": "Quantum Computing",
+      "icon": "fa-solid fa-atom",
+      "keywords": ["Quantum Simulation", "Quantum Walks", "Open Quantum Systems", "Quantum Machine Learning"]
+    },
+    {
+      "name": "Statistical Physics",
+      "icon": "fa-solid fa-wave-square",
+      "keywords": ["Complex Systems", "Non-equilibrium Dynamics", "Field Theory", "Monte Carlo Methods"]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Easy21 Reinforcement Learning",
+      "summary": "Implemented the Easy21 card game from David Silver's RL course. Trained tabular Monte Carlo and TD agents, and implemented a Sarsa(λ) agent with linear function approximation.",
+      "highlights": ["Monte Carlo Control", "TD Learning", "Sarsa(λ) with function approximation"],
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-01",
+      "url": "https://github.com/ruyi101/Easy21-Game-RL"
+    },
+    {
+      "name": "QCNN for Phase Identification (QHack 2024)",
+      "summary": "Developed and trained quantum convolutional neural networks (QCNNs) for phase identification using a GPU-accelerated simulator. Evaluated robustness on IonQ's device through AWS Bracket. Won 3rd place and Amazon Braket Prize.",
+      "highlights": ["Quantum CNN", "IonQ hardware evaluation", "AWS Braket", "QHack 2024 3rd Place"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-03-01",
+      "url": "https://github.com/ruyi101/QCNN-Phases"
+    },
+    {
+      "name": "NanoGPT",
+      "summary": "Trained a nano GPT model (11M parameters) from scratch with a decoder-only architecture featuring 6 causal multi-head self-attention blocks. Used a custom Byte Pair Encoding tokenizer trained on Shakespeare; language model trained on Hemingway.",
+      "highlights": ["Decoder-only Transformer", "Custom BPE tokenizer", "11M parameters"],
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-01",
+      "url": "https://github.com/ruyi101/NanoGPT"
+    }
+  ]
+}

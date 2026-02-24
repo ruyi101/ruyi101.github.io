@@ -1,0 +1,9 @@
+github_users:
+  - ruyi101
+
+repo_description_lines_max: 2
+
+github_repos:
+  - ruyi101/Easy21-Game-RL
+  - ruyi101/QCNN-Phases
+  - ruyi101/NanoGPT
