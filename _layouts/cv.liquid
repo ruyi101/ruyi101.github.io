@@ -211,12 +211,6 @@ layout: default
                   <td class="p-1 pl-2 font-weight-light">{{ basics.name }}</td>
                 </tr>
               {% endif %}
-              {% if basics.label %}
-                <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Professional Title</b></td>
-                  <td class="p-1 pl-2 font-weight-light">{{ basics.label }}</td>
-                </tr>
-              {% endif %}
               {% if basics.email %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Email</b></td>
@@ -229,17 +223,6 @@ layout: default
                   <td class="p-1 pl-2 font-weight-light">{{ basics.phone }}</td>
                 </tr>
               {% endif %}
-              {% if basics.location %}
-                <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Location</b></td>
-                  <td class="p-1 pl-2 font-weight-light">
-                    {% if basics.location.address %}{{ basics.location.address }}, {% endif %}
-                    {% if basics.location.city %}{{ basics.location.city }}, {% endif %}
-                    {% if basics.location.region %}{{ basics.location.region }} {% endif %}
-                    {% if basics.location.postalCode %}{{ basics.location.postalCode }}{% endif %}
-                  </td>
-                </tr>
-              {% endif %}
               {% if basics.url %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Website</b></td>
@@ -249,14 +232,6 @@ layout: default
                 </tr>
               {% endif %}
             </table>
-          </div>
-        {% endif %}
-
-        <!-- Summary -->
-        {% if site.data.resume.basics.summary %}
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Professional Summary</h3>
-            <p>{{ site.data.resume.basics.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           </div>
         {% endif %}
 
