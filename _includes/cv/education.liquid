@@ -29,16 +29,14 @@
           {% endif %}
 
           {% if date %}
-            <div class="text-center">
-              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ date }}</span>
-            </div>
+            <span class="badge font-weight-bold danger-color-dark text-uppercase" style="min-width: 75px; display: block; text-align: center;">{{ date }}</span>
           {% endif %}
           {% capture location %}
             {% if entry.location %}{{ entry.location }}{% endif %}
           {% endcapture %}
           {% assign location = location | strip %}
           {% if location != '' %}
-            <p class="location text-center">
+            <p class="location" style="text-align: center;">
               <i class="fa-solid fa-location-dot iconlocation"></i>
               {{ location }}
             </p>
