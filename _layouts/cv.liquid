@@ -204,29 +204,29 @@ layout: default
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Contact Information</h3>
             {% assign basics = site.data.resume.basics %}
-            <table class="table table-cv table-sm table-borderless">
+            <table class="table table-sm table-borderless" style="width: 100%;">
               {% if basics.name %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Name</b></td>
-                  <td class="p-1 pl-2 font-weight-light">{{ basics.name }}</td>
+                  <td style="width: 20%; text-align: left;" class="p-1 font-weight-bold"><b>Name</b></td>
+                  <td style="text-align: center;" class="p-1 font-weight-light">{{ basics.name }}</td>
                 </tr>
               {% endif %}
               {% if basics.email %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Email</b></td>
-                  <td class="p-1 pl-2 font-weight-light">{{ basics.email }}</td>
+                  <td style="width: 20%; text-align: left;" class="p-1 font-weight-bold"><b>Email</b></td>
+                  <td style="text-align: center;" class="p-1 font-weight-light">{{ basics.email }}</td>
                 </tr>
               {% endif %}
               {% if basics.phone %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Phone</b></td>
-                  <td class="p-1 pl-2 font-weight-light">{{ basics.phone }}</td>
+                  <td style="width: 20%; text-align: left;" class="p-1 font-weight-bold"><b>Phone</b></td>
+                  <td style="text-align: center;" class="p-1 font-weight-light">{{ basics.phone }}</td>
                 </tr>
               {% endif %}
               {% if basics.url %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Website</b></td>
-                  <td class="p-1 pl-2 font-weight-light">
+                  <td style="width: 20%; text-align: left;" class="p-1 font-weight-bold"><b>Website</b></td>
+                  <td style="text-align: center;" class="p-1 font-weight-light">
                     <a href="{{ basics.url }}" target="_blank">{{ basics.url }}</a>
                   </td>
                 </tr>
