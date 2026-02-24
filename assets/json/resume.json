@@ -5,7 +5,7 @@
     "image": "",
     "email": "lhyao731@gmail.com",
     "phone": "+1 (540) 514-1936",
-    "summary": "Physicist-turned-data-scientist with a Ph.D. in Physics from Virginia Tech. Specializes in machine learning for insurance pricing and risk modeling, NLP/LLM research, and quantum computing. Published researcher in AI/ML, quantum information, and statistical physics.",
+    "summary": "",
     "location": {},
     "profiles": []
   },
@@ -106,8 +106,7 @@
   ],
   "certificates": [
     {
-      "name": "IBM Certified Associate Developer — Quantum Computation using Qiskit",
-      "date": "",
+      "name": "IBM Certified Associate Developer - Quantum Computation using Qiskit",
       "issuer": "IBM",
       "icon": "fa-solid fa-atom"
     }
@@ -170,44 +169,8 @@
       "summary": "With R. I. Mukhamadiarov, S. Deng, S. R. Serrao, R. Nandi, U. C. Täuber."
     }
   ],
-  "skills": [
-    {
-      "name": "Machine Learning & AI",
-      "level": "Expert",
-      "icon": "fa-solid fa-brain",
-      "keywords": ["Scikit-Learn", "PyTorch", "Huggingface Transformers", "LLMs", "RAG", "DPO", "NLP"]
-    },
-    {
-      "name": "Quantum Computing",
-      "level": "Expert",
-      "icon": "fa-solid fa-atom",
-      "keywords": ["Qiskit", "PennyLane", "Quantum Walks", "Quantum Simulation", "VQA"]
-    },
-    {
-      "name": "Programming",
-      "level": "Expert",
-      "icon": "fa-solid fa-code",
-      "keywords": ["Python", "SQL", "Snowflake", "R", "C/C++", "Mathematica"]
-    },
-    {
-      "name": "Data Science",
-      "level": "Expert",
-      "icon": "fa-solid fa-chart-line",
-      "keywords": ["NetworkX", "Graph Methods", "Feature Engineering", "Predictive Modeling", "Statistical Analysis"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "Mandarin",
-      "fluency": "Native speaker",
-      "icon": ""
-    }
-  ],
+  "skills": [],
+  "languages": [],
   "interests": [
     {
       "name": "Machine Learning & NLP",
@@ -226,30 +189,5 @@
     }
   ],
   "references": [],
-  "projects": [
-    {
-      "name": "Easy21 Reinforcement Learning",
-      "summary": "Implemented the Easy21 card game from David Silver's RL course. Trained tabular Monte Carlo and TD agents, and implemented a Sarsa(λ) agent with linear function approximation.",
-      "highlights": ["Monte Carlo Control", "TD Learning", "Sarsa(λ) with function approximation"],
-      "startDate": "2023-01-01",
-      "endDate": "2023-06-01",
-      "url": "https://github.com/ruyi101/Easy21-Game-RL"
-    },
-    {
-      "name": "QCNN for Phase Identification (QHack 2024)",
-      "summary": "Developed and trained quantum convolutional neural networks (QCNNs) for phase identification using a GPU-accelerated simulator. Evaluated robustness on IonQ's device through AWS Bracket. Won 3rd place and Amazon Braket Prize.",
-      "highlights": ["Quantum CNN", "IonQ hardware evaluation", "AWS Braket", "QHack 2024 3rd Place"],
-      "startDate": "2024-01-01",
-      "endDate": "2024-03-01",
-      "url": "https://github.com/ruyi101/QCNN-Phases"
-    },
-    {
-      "name": "NanoGPT",
-      "summary": "Trained a nano GPT model (11M parameters) from scratch with a decoder-only architecture featuring 6 causal multi-head self-attention blocks. Used a custom Byte Pair Encoding tokenizer trained on Shakespeare; language model trained on Hemingway.",
-      "highlights": ["Decoder-only Transformer", "Custom BPE tokenizer", "11M parameters"],
-      "startDate": "2023-01-01",
-      "endDate": "2023-06-01",
-      "url": "https://github.com/ruyi101/NanoGPT"
-    }
-  ]
+  "projects": []
 }
