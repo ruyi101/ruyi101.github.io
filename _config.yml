@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: (Louie) Hong
 middle_name:
 last_name: Yao
-contact_note: >
-  The best way to reach me is via email.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Hong (Louie) Yao — physicist turned data scientist, working on ML for insurance and quantum computing.
 footer_text: >
