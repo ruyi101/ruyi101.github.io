@@ -6,18 +6,8 @@
     "email": "lhyao731@gmail.com",
     "phone": "+1 (540) 514-1936",
     "summary": "Physicist-turned-data-scientist with a Ph.D. in Physics from Virginia Tech. Specializes in machine learning for insurance pricing and risk modeling, NLP/LLM research, and quantum computing. Published researcher in AI/ML, quantum information, and statistical physics.",
-    "location": {
-      "city": "Liberty",
-      "countryCode": "US",
-      "region": "Ohio"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "ruyi101",
-        "url": "https://github.com/ruyi101"
-      }
-    ]
+    "location": {},
+    "profiles": []
   },
   "work": [
     {
