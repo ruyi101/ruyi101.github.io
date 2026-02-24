@@ -2,10 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A selection of projects in machine learning, quantum computing, and reinforcement learning.
 nav: true
 nav_order: 3
-display_categories: [machine learning, quantum computing]
+display_categories: [Machine Learning, Quantum Computing]
 horizontal: false
 ---
 

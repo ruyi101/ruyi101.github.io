@@ -3,7 +3,7 @@ layout: page
 title: NanoGPT
 description: An 11M-parameter GPT trained from scratch on Shakespeare and Hemingway
 importance: 3
-category: machine learning
+category: Machine Learning
 related_publications: false
 ---
 
