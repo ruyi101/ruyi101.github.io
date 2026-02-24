@@ -2,7 +2,6 @@
 layout: page
 title: NanoGPT
 description: An 11M-parameter GPT trained from scratch on Shakespeare and Hemingway
-img: assets/img/proj_nanogpt.jpg
 importance: 3
 category: machine learning
 related_publications: false

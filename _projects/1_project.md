@@ -2,7 +2,6 @@
 layout: page
 title: Easy21 Reinforcement Learning
 description: Tabular RL agents for the Easy21 card game (David Silver's RL course)
-img: assets/img/proj_easy21.jpg
 importance: 1
 category: machine learning
 related_publications: false

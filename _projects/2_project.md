@@ -2,7 +2,6 @@
 layout: page
 title: QCNN for Phase Identification
 description: Quantum Convolutional Neural Networks for quantum phase identification — QHack 2024 (3rd Place + Amazon Braket Prize)
-img: assets/img/proj_qcnn.jpg
 importance: 2
 category: quantum computing
 related_publications: false
