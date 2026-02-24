@@ -9,11 +9,13 @@ div.container-link-button {
 table.table-cv {
   background-color: transparent !important;
   width: 100%;
+  table-layout: fixed;
 
   td,
   th {
     padding: 1px;
     text-align: center;
+    word-break: break-word;
   }
 }
 
