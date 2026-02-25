@@ -23,8 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-I am a physicist-turned-data-scientist currently working as a Predictive Modeling Analyst at The Cincinnati Insurance Company. My work sits at the intersection of machine learning, NLP, and applied statistics — with a focus on homeowner insurance pricing and risk modeling.
+I am a statistical physicist, and my work is guided by Philip W. Anderson’s idea that “more is different.” When many simple components interact, new laws and structures can emerge that are not obvious from the parts alone. In statistical mechanics, I focus on phase transitions, universality, and symmetries, using them to understand how macroscopic behavior becomes insensitive to microscopic details. In quantum computing and information, I use statistical-physics ideas to study how entanglement, correlations, and collective dynamics emerge in many-body quantum systems and how these structures can be used for computation and information processing. In machine learning, I aim to understand representations and learning dynamics in large models, treating them as evolving, high-dimensional systems shaped by optimization, data, and scale.
 
-Previously, I completed a Ph.D. in Physics at **Virginia Tech** (2018–2023) under Prof. [Uwe C. Täuber](http://www1.phys.vt.edu/~tauber/utaeuber.html), where my research spanned **statistical physics**, **quantum information**, and **quantum walks**. Before that, I earned my B.Sc. in Physics from **Nankai University** (2014–2018).
-
-My broader interests include quantum simulation, reinforcement learning, and the theory of complex systems. I am also an IBM-certified quantum developer and have competed in quantum hackathons (QHack 2024: 3rd place + Amazon Braket Prize).
+I earned my Ph.D. in theoretical physics at Virginia Tech (2018–2023) under Prof. [Uwe C. Täuber](http://www1.phys.vt.edu/~tauber/utaeuber.html), and my B.Sc. in Physics from Nankai University (2014–2018). I currently work as a predictive modeler at The Cincinnati Insurance Company.

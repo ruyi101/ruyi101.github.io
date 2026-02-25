@@ -173,19 +173,19 @@
   "languages": [],
   "interests": [
     {
-      "name": "Machine Learning & NLP",
-      "icon": "fa-solid fa-brain",
-      "keywords": ["LLMs", "Item Response Theory", "Visual Recognition", "Insurance Analytics"]
-    },
-    {
-      "name": "Quantum Computing",
-      "icon": "fa-solid fa-atom",
-      "keywords": ["Quantum Simulation", "Quantum Walks", "Open Quantum Systems", "Quantum Machine Learning"]
-    },
-    {
-      "name": "Statistical Physics",
+      "name": "Phase Transitions and Critical Dynamics",
       "icon": "fa-solid fa-wave-square",
-      "keywords": ["Complex Systems", "Non-equilibrium Dynamics", "Field Theory", "Monte Carlo Methods"]
+      "keywords": ["Renormalization group theory", "Field-theoretic methods", "Universality classes", "Conformal field theory", "Nonequilibrium critical phenomena", "Symmetry-driven collective behavior"]
+    },
+    {
+      "name": "Quantum Information and Computation",
+      "icon": "fa-solid fa-atom",
+      "keywords": ["Open quantum systems", "Quantum many-body dynamics", "Entanglement structure", "Nonequilibrium processes", "Quantum correlations", "Quantum information stabilization"]
+    },
+    {
+      "name": "Physics for Artificial Intelligence",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Training dynamics of deep neural networks", "Representation structure and interpretability", "Generalization and robustness", "Emergent behavior in large-scale models", "Statistical-physics approaches to learning systems"]
     }
   ],
   "references": [],

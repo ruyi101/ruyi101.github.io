@@ -275,18 +275,6 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- Publications -->
-        {% if site.data.resume.publications.size > 0 %}
-          <a class="anchor" id="publications"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Publications</h3>
-            <div>
-              {% assign entries = site.data.resume.publications %}
-              {% include cv/publications.liquid %}
-            </div>
-          </div>
-        {% endif %}
-
         <!-- Skills -->
         {% if site.data.resume.skills.size > 0 %}
           <a class="anchor" id="skills"></a>
