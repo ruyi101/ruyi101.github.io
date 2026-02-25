@@ -53,8 +53,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-won-3rd-place-and-the-amazon-braket-prize-at-qhack-2024-for-our-quantum-convolutional-neural-network-project-for-phase-identification",
-          title: 'Won 3rd place and the Amazon Braket Prize at QHack 2024 for our...',
+            },},{id: "news-our-paper-stochastic-resetting-in-discrete-time-quantum-dynamics-steady-states-and-correlations-in-few-qubit-systems-has-been-published-in-quantum-vol-9-p-1742",
+          title: 'Our paper Stochastic Resetting in Discrete-time Quantum Dynamics: Steady States and Correlations in...',
           description: "",
           section: "News",},{id: "news-new-preprint-on-arxiv-je-irt-a-geometric-lens-on-llm-abilities-through-joint-embedding-item-response-theory-arxiv-2509-22888",
           title: 'New preprint on arXiv: JE-IRT: A Geometric Lens on LLM Abilities through Joint...',
