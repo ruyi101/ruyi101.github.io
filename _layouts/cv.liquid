@@ -347,6 +347,30 @@ layout: default
           </div>
         {% endif %}
 
+        <!-- Reviews -->
+        {% if site.data.resume.reviews %}
+          <a class="anchor" id="reviews"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Academic Service</h3>
+            {% if site.data.resume.reviews.conference.size > 0 %}
+              <h5 class="font-weight-medium mt-2">Conference Reviewer</h5>
+              <ul class="card-text font-weight-light list-group list-group-flush">
+                {% for venue in site.data.resume.reviews.conference %}
+                  <li class="list-group-item">{{ venue }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+            {% if site.data.resume.reviews.journal.size > 0 %}
+              <h5 class="font-weight-medium mt-3">Journal Reviewer</h5>
+              <ul class="card-text font-weight-light list-group list-group-flush">
+                {% for venue in site.data.resume.reviews.journal %}
+                  <li class="list-group-item">{{ venue }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        {% endif %}
+
       {% else %}
         <p>No CV data found. Please configure either RenderCV (cv.yml) or JSONResume (resume.json) data.</p>
       {% endif %}

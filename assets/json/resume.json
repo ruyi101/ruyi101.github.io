@@ -189,5 +189,18 @@
     }
   ],
   "references": [],
-  "projects": []
+  "projects": [],
+  "reviews": {
+    "conference": [
+      "International Conference on Machine Learning (ICML 2026)"
+    ],
+    "journal": [
+      "Physical Review Letters (PRL)",
+      "Physical Review A (PRA)",
+      "Physical Review E (PRE)",
+      "Europhysics Letters (EPL)",
+      "Advanced Quantum Technologies",
+      "International Journal of Modern Physics B"
+    ]
+  }
 }
