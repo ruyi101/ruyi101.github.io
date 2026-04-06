@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *Rhetorical Questions in LLM Representations: A Linear Probing Study* has been accepted at **ACL 2026** (main conference)!
+Paper accepted at **ACL 2026**: *Rhetorical Questions in LLM Representations: A Linear Probing Study*.

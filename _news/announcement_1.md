@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at **EACL 2026 (Findings)**: *Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering*.
+Paper accepted at **EACL 2026 (Findings)**: [*Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering*](https://aclanthology.org/2026.findings-eacl.32/).
