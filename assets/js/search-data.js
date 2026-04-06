@@ -43,7 +43,7 @@ ninja.data = [{
           title: 'Presented Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-acl-2026-main-rhetorical-questions-in-llm-representations-a-linear-probing-study",
-          title: 'Paper accepted at ACL 2026 (main): Rhetorical Questions in LLM Representations: A Linear...',
+          title: 'Paper accepted at ACL 2026 (Main): Rhetorical Questions in LLM Representations: A Linear...',
           description: "",
           section: "News",},{id: "projects-easy21-reinforcement-learning",
           title: 'Easy21 Reinforcement Learning',
