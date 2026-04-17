@@ -113,6 +113,13 @@
   ],
   "publications": [
     {
+      "name": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
+      "publisher": "ACL 2026 (Main)",
+      "releaseDate": "2026-01-01",
+      "url": "https://arxiv.org/abs/2604.14128",
+      "summary": "With V. Anand, Y. Zhuang, T. Jiang."
+    },
+    {
       "name": "Towards Robust Evaluation of Visual Activity Recognition: Resolving Verb Ambiguity with Sense Clustering",
       "publisher": "Findings of ACL: EACL 2026",
       "releaseDate": "2026-01-01",
