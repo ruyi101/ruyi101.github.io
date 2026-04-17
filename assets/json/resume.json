@@ -113,6 +113,13 @@
   ],
   "publications": [
     {
+      "name": "A Minimal Model of Representation Collapse: Frustration, Stop-Gradient, and Dynamics",
+      "publisher": "arXiv:2604.09979",
+      "releaseDate": "2026-01-01",
+      "url": "https://arxiv.org/abs/2604.09979",
+      "summary": "With Y. Li and S. Liu."
+    },
+    {
       "name": "Rhetorical Questions in LLM Representations: A Linear Probing Study",
       "publisher": "ACL 2026 (Main)",
       "releaseDate": "2026-01-01",
