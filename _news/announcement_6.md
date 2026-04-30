@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint on arXiv: [*A Minimal Model of Representation Collapse: Frustration, Stop-Gradient, and Dynamics*](https://arxiv.org/abs/2604.09979) (with Y. Li and S. Liu).
+New preprint on arXiv: [*A Minimal Model of Representation Collapse: Frustration, Stop-Gradient, and Dynamics*](https://arxiv.org/abs/2604.09979).
