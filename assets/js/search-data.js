@@ -45,7 +45,7 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-acl-2026-main-rhetorical-questions-in-llm-representations-a-linear-probing-study",
           title: 'Paper accepted at ACL 2026 (Main): Rhetorical Questions in LLM Representations: A Linear...',
           description: "",
-          section: "News",},{id: "news-new-preprint-on-arxiv-a-minimal-model-of-representation-collapse-frustration-stop-gradient-and-dynamics-with-y-li-and-s-liu",
+          section: "News",},{id: "news-new-preprint-on-arxiv-a-minimal-model-of-representation-collapse-frustration-stop-gradient-and-dynamics",
           title: 'New preprint on arXiv: A Minimal Model of Representation Collapse: Frustration, Stop-Gradient, and...',
           description: "",
           section: "News",},{id: "projects-easy21-reinforcement-learning",
